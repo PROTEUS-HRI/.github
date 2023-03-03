@@ -7,4 +7,4 @@ The code in this organizion is research code, meaning that there are known issue
 
 This code is all released under the GPLv3, meaning that you are free to use it, but any meaningiful changes you make must be re-released under the GPLv3. Please submit such changes as pull requests to the appropriate repositories, and Michael will merge them whenever possible. 
 
-The owner of the intellectual property of this org is the University of Minnesota, via Junaed Sattar and originally authored by Michael Fulton during his PHD. Go to https://github.com/irvlab to see other IRVLab code.
+The owner of the intellectual property of this org is the University of Minnesota, via Junaed Sattar and originally authored by Michael Fulton during his PHD. Go to https://github.com/irvlab to see other IRVLab code or https://irvlab.cs.umn.edu/ to read more about the IRVLab's research.
