@@ -6,3 +6,5 @@ The PROTEUS-HRI software system is a multi-modal system for underwater human-rob
 The code in this organizion is research code, meaning that there are known issues, known unimplemented behaviors, etc.  As much as I would love to be able to develop PROTEUS to a point of true stability and ease of use, that's not the way that PhDs work, unfortunately. I hope that I've left sufficient in-code comments to make this code easy to understand, and that I've made the code easy to read. If you have difficulties with this code, please submit an issue or reach out to Michael personally. 
 
 This code is all released under the GPLv3, meaning that you are free to use it, but any meaningiful changes you make must be re-released under the GPLv3. Please submit such changes as pull requests to the appropriate repositories, and Michael will merge them whenever possible. 
+
+The owner of the intellectual property of this org is the University of Minnesota, via Junaed Sattar and originally authored by Michael Fulton during his PHD. Go to https://github.com/irvlab to see other IRVLab code.
